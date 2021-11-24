@@ -1,0 +1,27 @@
+body{
+    background: white;
+    align-items: center;
+}
+
+#area{
+    align-items:center;
+    display: flex;
+    flex-flow: column wrap;
+}
+#head{
+    font-size: 66px;
+    font-family:cursive;
+    color:black;
+    text-shadow: 1px 1px 2px white, -1px -1px 2px white;
+}
+#watchAgain{
+    font-size: 36px;
+    font-family: cursive;
+    background:transparent;
+    color:black;
+    text-shadow: 1px 1px 1px white, -1px -1px 1px white; 
+    border-block-style : none;
+    border-left-style: none;
+    border-right-style: none;
+    padding-left: 350px;
+}
